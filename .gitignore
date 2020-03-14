@@ -68,4 +68,5 @@ fabric.properties
 .idea / httpRequests
 
 # Android studio 3.1+ сериализованный кеш файл
-.idea / кэша / build_file_checksums.serk
+.idea / кэша / build_file_checksums.ser
+secret.txt
